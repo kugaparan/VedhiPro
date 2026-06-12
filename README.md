@@ -1,6 +1,9 @@
 # VedhiPro — Chemical Engineering Toolkit 🧪
 
 > **வேதி** (*vedhi*) means "chemistry" in Tamil.
+<p align="center">
+  <img src="Screenshot 2026-06-12 131413.png" alt="EB Detector result" width="1000">
+</p>
 
 
 
