@@ -2,7 +2,7 @@
 
 > **வேதி** (*vedhi*) means "chemistry" in Tamil.
 
-![VedhiPro banner](screenshots/banner.svg)
+
 
 An offline-first, browser-based toolkit of **24 chemical-engineering tools with 130+ individual
 calculators** — including an interactive **McCabe-Thiele distillation designer**, **reheat &
@@ -11,22 +11,17 @@ interactive **psychrometric chart**, **pinch composite curves**, and an **AI ass
 Properties come from a hand-ported **IAPWS-IF97** steam library. No build step, no backend,
 no login — pure HTML, CSS and JavaScript.
 
-**🔗 Live demo:** https://YOUR-USERNAME.github.io/VedhiPro/
-*(works after you enable GitHub Pages — see "Deploy" below)*
+**🔗 Live demo:** [https://github.com/kugaparan/VedhiPro.git]
+
 
 ## 📸 Screenshots
 
-> Add your own captures to the `screenshots/` folder (see `screenshots/README.txt`),
-> then uncomment the lines below.
 
-<!--
-![Home](screenshots/home.png)
-![McCabe-Thiele diagram](screenshots/mccabe.png)
-![Mollier chart](screenshots/mollier.png)
-![Rankine T-s diagram](screenshots/rankine.png)
--->
 
----
+<p align="center">
+  <img src="Screenshot 2026-06-12 124409.png" alt="EB Detector result" width="1000">
+</p>
+
 
 ## ✨ Features
 
@@ -82,7 +77,18 @@ Each tool below is a multi-tab workspace — 130+ calculators in total.
 - 🤖 **AI assistant & tutor** — Q&A, exam/viva/formula-sheet/lab-report/PFD modes
   (bring-your-own Anthropic/OpenAI key, stored only in your browser)
 
----
+<p align="center">
+  <img src="Screenshot 2026-06-12 125920.png" alt="EB Detector result" width="1000">
+</p>
+<p align="center">
+  <img src="Screenshot 2026-06-12 130011.png" alt="EB Detector result" width="1000">
+</p>
+<p align="center">
+  <img src="Screenshot 2026-06-12 130126.png" alt="EB Detector result" width="1000">
+</p>
+<p align="center">
+  <img src="Screenshot 2026-06-12 130242.png" alt="EB Detector result" width="1000">
+</p>
 
 ## 🛠 Tech stack
 
@@ -107,17 +113,6 @@ python -m http.server 8000
 
 ---
 
-## 🌐 Deploy free on GitHub Pages
-
-1. Push this repo to GitHub.
-2. Go to **Settings → Pages**.
-3. Under **Build and deployment → Source**, choose **Deploy from a branch**.
-4. Branch: **main**, folder: **/ (root)** → **Save**.
-5. Wait ~1 minute, then your live site is at
-   `https://YOUR-USERNAME.github.io/VedhiPro/`.
-6. Update the **Live demo** link at the top of this README.
-
----
 
 ## ✅ Verified
 
@@ -143,8 +138,8 @@ verify against validated software before any real engineering decision.
 
 ## 👤 Author
 
-**[Your Name]** — Chemical Engineering
-[LinkedIn](https://www.linkedin.com/in/YOUR-HANDLE) · [GitHub](https://github.com/YOUR-USERNAME)
+**KUGAPARAN SUNTHARALINGAM** — Chemical Engineering
+[LinkedIn](https://www.linkedin.com/in/kugaparan) · [GitHub](https://github.com/kugaparan)
 
 ## 📄 License
 
