@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+<title>VedhiPro — Chemical Engineering Toolkit</title>
+<meta name="theme-color" content="#070b13">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+<div id="app">
+  <header class="topbar">
+    <button id="menuBtn" class="icon-btn" aria-label="Menu">&#9776;</button>
+    <div class="brand">
+      <span class="logo"><b>V</b><span class="logo-ta">வேதி</span></span>
+      <div class="brand-text">
+        <strong>VedhiPro</strong>
+        <small>Chemical Engineering Toolkit</small>
+      </div>
+    </div>
+    <button id="aiQuick" class="icon-btn" title="AI Assistant">&#129302;</button>
+  </header>
+
+  <div class="layout">
+    <nav id="sidebar" class="sidebar">
+      <ul id="navList"></ul>
+      <div class="nav-footer">v1.0 &middot; offline-ready</div>
+    </nav>
+    <div id="scrim"></div>
+    <main id="content" class="content"></main>
+  </div>
+</div>
+
+<script src="js/data.js"></script>
+<script src="js/tools.js"></script>
+<script src="js/tools2.js"></script>
+<script src="js/tools3.js"></script>
+<script src="js/tools4.js"></script>
+<script src="js/app.js"></script>
+</body>
+</html>
