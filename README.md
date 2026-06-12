@@ -14,7 +14,7 @@ interactive **psychrometric chart**, **pinch composite curves**, and an **AI ass
 Properties come from a hand-ported **IAPWS-IF97** steam library. No build step, no backend,
 no login — pure HTML, CSS and JavaScript.
 
-**🔗 Live demo:** [https://github.com/kugaparan/VedhiPro.git]
+**🔗 Live demo:** [https://vedhipro.netlify.app/#home]
 
 
 ## 📸 Screenshots
